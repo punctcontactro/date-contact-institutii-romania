@@ -1,5 +1,7 @@
 # Date de contact ale instituțiilor publice din România
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23206083.svg)](https://doi.org/10.5281/zenodo.23206083)
+
 Seturi de date deschise cu datele de contact oficiale ale instituțiilor publice din România, pe județe: case de pensii, case de asigurări de sănătate, comisariate pentru protecția consumatorilor, servicii de permise și înmatriculări, servicii de pașapoarte, agenții de ocupare a forței de muncă, agenții ARR, ghișee de stare civilă, autogări licențiate și operatori de distribuție a energiei electrice.
 
 Datele sunt întreținute de redacția [PunctContact](https://punctcontact.ro/) și publicate și pe [punctcontact.ro/date-publice/](https://punctcontact.ro/date-publice/).
@@ -42,9 +44,9 @@ Metodologia completă: [punctcontact.ro/metodologie/](https://punctcontact.ro/me
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ro). Puteți folosi, modifica și redistribui datele, inclusiv comercial, cu condiția atribuirii:
 
-> Sursa: PunctContact — https://punctcontact.ro/date-publice/ (CC BY 4.0)
+> Sursa: PunctContact — https://punctcontact.ro/date-publice/ (CC BY 4.0), DOI: 10.5281/zenodo.23206083
 
-Vezi și `CITATION.cff`.
+Vezi și `CITATION.cff`. Arhivă permanentă pe Zenodo: https://doi.org/10.5281/zenodo.23206083 (trimite mereu la ultima versiune).
 
 ## Actualizări și corecturi
 
