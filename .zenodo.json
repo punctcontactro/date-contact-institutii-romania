@@ -1,0 +1,25 @@
+{
+  "title": "Date de contact ale instituțiilor publice din România",
+  "upload_type": "dataset",
+  "description": "Seturi de date deschise (CSV, JSON) cu datele de contact oficiale ale instituțiilor publice din România, pe județe. Fiecare rând are sursa oficială și data verificării. Întreținute de PunctContact.",
+  "creators": [
+    {
+      "name": "PunctContact"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "ron",
+  "keywords": [
+    "România",
+    "instituții publice",
+    "date de contact",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://punctcontact.ro/date-publice/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Dacă folosiți aceste date, vă rugăm să citați sursa."
+title: "Date de contact ale instituțiilor publice din România"
+type: dataset
+authors:
+  - name: "PunctContact"
+    website: "https://punctcontact.ro/"
+license: CC-BY-4.0
+url: "https://punctcontact.ro/date-publice/"
+date-released: "2026-10-07"
+version: "2026.10.07"
+keywords:
+  - România
+  - instituții publice
+  - date de contact
+  - open data
+  - date deschise
